@@ -19,3 +19,8 @@ JAVA file for I Year II Semester.
    [Ques 11](QUES&#32;11)       | Using  AWT,  write  a  program which  responds  to  KEY_TYPED  event  and  updates  the status window with message (“Typed character is: X”). Useadapter class for other two events.
    [Ques 12](QUES&#32;12)       | Using AWT, write a program to create two buttons labelled ‘A’ and ‘B’. When button ‘A’ is pressed, it displays your personalinformation (Name, Course, Roll No, College) and when button ‘B’ is pressed, it displays your CGPA in previous semester.
    [Ques 13](QUES&#32;13)       | Rewrite all the above GUIprograms using Swing.
+
+## Author
+
+[Shubhang Gupta](https://jarvis-1805.github.io)\
+[@shubhsahu1805](mailto:shubhsahu1805@gmail.com)
